@@ -1,0 +1,7 @@
+total 113K
+drwxr-xr-x 1 internet10 1119589   0 May 16 10:37 dist
+drwxr-xr-x 1 internet10 1119589   0 May 16 10:37 node_modules
+-rw-r--r-- 1 internet10 1119589 48K May 16 10:37 package-lock.json
+-rw-r--r-- 1 internet10 1119589 347 May 16 10:37 package.json
+drwxr-xr-x 1 internet10 1119589   0 May 16 10:37 scss
+-rw-r--r-- 1 internet10 1119589   0 May 16 11:32 a
