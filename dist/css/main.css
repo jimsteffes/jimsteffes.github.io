@@ -11,6 +11,8 @@
     margin: 0 0 5px 0;
     background: #fff;
     transition: all 1.5s ease-out; }
+  .menu-btn.close {
+    transform: rotate(180deg); }
 
 * {
   box-sizing: border-box; }
@@ -38,7 +40,7 @@ body {
 h1,
 h2,
 h3 {
-  margin: 0;
+  margin: 200;
   font-weight: 400; }
   h1.lg-heading,
   h2.lg-heading,

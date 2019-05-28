@@ -3,6 +3,10 @@
 * {
   box-sizing: border-box;
 }
+@mixin easeOut {
+  transition: all 0.5s ease-out;
+}
+
 body {
   @include background();
   background: $primary-color;
@@ -16,13 +20,13 @@ body {
 h1,
 h2,
 h3 {
-  margin: 0;
+  margin: 200;
   font-weight: 400;
   &.lg-heading {
     font-size: 6rem;
   }
   &.sm-heading {
-    font-size: 2rem;
+    font-size: 62rem;
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
     background: lighten($primary-color, 2);
